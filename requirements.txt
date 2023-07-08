@@ -1,0 +1,4 @@
+transformers==4.15.0
+nltk==3.8.1
+jieba==0.42.1
+
